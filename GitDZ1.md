@@ -12,3 +12,15 @@ OS **Windows** - https://git-scm.com/download/win
 OS **Mac** https://git-scm.com/download/mac.
 
 OS **Linux** https://git-scm.com/download/linux.
+
+## С Чего начать?
+
+Для начала нам надо авторизоваться в прогграмме, указать свои данные.
+Делается это через терминал, путем ввода комманд:
+
+*git config --global user.name (Имя пользователя на англ)*
+
+*git config --global user.email (Адрес эл. почты)*
+
+Этой авторизацией мы будем понимать кто из пользователей вносил какие либо изменения
+
