@@ -5,3 +5,10 @@
 ![лого](hero.jpg) 
 
 Git применяется для управления версиями в рамках колоссального количества проектов по разработке ПО, как коммерческих, так и с открытым исходным кодом.
+## Где скачать? 
+
+OS **Windows** - https://git-scm.com/download/win
+
+OS **Mac** https://git-scm.com/download/mac.
+
+OS **Linux** https://git-scm.com/download/linux.
